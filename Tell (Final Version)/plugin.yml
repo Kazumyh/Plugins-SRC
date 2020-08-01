@@ -1,0 +1,9 @@
+name: Tell
+version: 1.0
+author: _Kazumy
+main: tell.main.TellMain
+
+commands:
+  tell:
+  tellon:
+  telloff:
