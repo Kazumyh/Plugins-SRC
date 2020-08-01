@@ -1,0 +1,8 @@
+name: report
+version: 1.0
+author: _Kazumy
+main: principal.Principal
+
+commands:
+  report:
+    aliases: [reportar]
